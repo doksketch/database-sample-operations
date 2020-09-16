@@ -1,6 +1,0 @@
-My Open Tour(MOTU) is online platform for personal entertainment planning. Entertainment 
-proposals such as restaurants, theatres, night clubs are matched with tourists' 
-preferences. All in all, MOTU provides a holistic route of leisure which is right for you.
-Customers are tourists and entertainment industry enterprises.
-The database purposes are definition and manipulation data about discounts, bookings,
-payments, enterpeises' features and tourists'characteristics.
